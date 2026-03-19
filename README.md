@@ -11,11 +11,6 @@
 
 <p align="center">A full-stack web application that helps users plan their trips by providing AI-powered recommendations for travel itineraries, places to visit, and hotels. This app integrates Google Generative AI for dynamic travel planning, Firebase for data storage, and Google Places API for fetching detailed information about places and hotels. </p>
 
-
-<h3 align="center">
-<a href="https://ai-trip-planner-barika.vercel.app/" target="_blank">📱 Visit this Project</a>
-</h3> <br>
-
 <h2 id="technologies">💻 Technologies</h2>
 
 <b><em>Frontend:</b></em>
@@ -44,22 +39,22 @@
 
 <p>
 Home Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/1.1.png" alt="">
+<img src="public/asset/1.1.png" alt="">
 
 Google OAuth Sign in:
-  <img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/2.png" alt="">
+  <img src="public/asset/2.png" alt="">
   
 Create Trip Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/4.4.png" alt="">
+<img src="public/asset/4.4.png" alt="">
 
 View Trip Page: AI-generated Hotel Recommendations & Places to Visit
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/7.png" alt="" width="75%" align="center">
+<img src="public/asset/7.png" alt="" width="75%" align="center">
 
 My Trips Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/6.png" alt="">
+<img src="public/asset/6.png" alt="">
 
 Responsive view on mobile: <br>
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/8.jpg" alt="" width="30%" align="center">
+<img src="public/asset/8.jpg" alt="" width="30%" align="center">
 </p>
  
 
